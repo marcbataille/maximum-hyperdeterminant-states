@@ -1,6 +1,6 @@
 # maximum-hyperdeterminant-states
 This Python module is related to quantum circuits producing four-qubit maximum hyperdeterminant states.
-The module provides functions to prove some assertions and numerical identities of the article "Quantum circuits generating four-qubit maximally entangled states" available on arXiv.
+The module provides functions to prove some assertions and numerical identities of the article "Quantum circuits generating four-qubit maximally entangled states" available on arXiv at https://arxiv.org/abs/2110.06362
 It contains also the implementation of the optimization algorithms used to find out some of the results of the paper. 
 
 Usage  :
